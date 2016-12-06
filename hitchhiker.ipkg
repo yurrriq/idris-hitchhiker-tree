@@ -1,0 +1,15 @@
+package hitchhiker
+
+sourcedir  = src
+modules    = Data.Hitchhiker.Tree
+-- TODO: tests
+
+brief      = "An Idris implementation of hitchhiker trees."
+-- TODO: version
+readme     = README.md
+license    = BSD-3
+author     = Eric Bailey
+
+homepage   = https://github.com/yurrriq/idris-hitchhiker-tree
+sourceloc  = git://git@github.com:yurrriq/idris-hitchhiker-tree.git
+bugtracker = https://github.com/yurrriq/idris-hitchhiker/issues
